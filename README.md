@@ -1,6 +1,7 @@
 # Zigbee
 This project need : 
 -Arduino Uno R3
+-Module Bluetooth HC-05
 -Relay 5V 
 -Led
 -Motor (Fan)
